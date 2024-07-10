@@ -21,4 +21,8 @@ for index in 0..<arr.count {
     print(arr[index])
 }
 
+for index in stride(from: arr.count - 2, through: 0, by: -1) {
+    print(arr[index]
+}
+
 ```
