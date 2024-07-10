@@ -1,4 +1,4 @@
-## Find second largest element in the given array
+## Find second largest element in the given array using Swift
 
 ```swift
 let input = [20, 1, 3, 4, 7, 7, 5, 11]
